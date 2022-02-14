@@ -12,7 +12,7 @@
 - MongoDB, Mongoose, SQL, Postgres, ElephantSQL
 - 🎨  CSS, SASS, LESS, AntDesign, Chakra
 - Agenda, Node-cron
-- Firebase, AWS, Parse Cloud
+- Firebase, AWS, Parse Cloud, Heroku
 
 ## interests
 
