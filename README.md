@@ -1,16 +1,16 @@
-### Hi there 👋
+> Software Developer 🤓
 
-<!--
-**natashajvandam/natashajvandam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## growth
 
-Here are some ideas to get you started:
+- 🤸🏻  AI based workout app ✨ trAIning ✨
+- 🚴🏻‍♂️  Cycling fantasy League - solo project
+- 🌱  Codeworks alumn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tech
+
+- Typescript, Javascript, React, Angular, Express, Koa ... 
+- 🎨  CSS, SASS, LESS, AntDesign, Chakra
+
+## interests
+
+I grew up in Port-au-Prince, Haiti and have a deep love of sunshine, travel, and creating solutions that improve everday quality of life. Beyond coding, I enjoy rock-climbing and cycling and any other form of adventuring outdoors. I'm also an artist and dabble in creating my own paint from scratch (*read: grinds up rocks into fine powder to use their pigment*). 
