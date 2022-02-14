@@ -4,7 +4,7 @@
 
 - 🤸🏻  AI based workout app ✨ [training](https://github.com/natashajvandam/final-project-GymAlytics) ✨
 - 🐕  [My Companion](https://github.com/natashajvandam/solo-project-pet-app) - adding tests & Typescript
-- 🚴🏻‍♂️  [Cycling fantasy League](https://github.com/natashajvandam/fantacy_cycling) - fun solo project
+- 🚴🏻‍♂️  [Cycling fantasy League](https://github.com/natashajvandam/GrannyGearGroupetto) - fun solo project
 
 ## tech I love
 
